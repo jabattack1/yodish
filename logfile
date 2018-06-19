@@ -1,0 +1,36 @@
+LOG:  database system was shut down at 2018-06-06 23:18:58 KST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+FATAL:  database "peterhahn" does not exist
+FATAL:  database "peterhahn" does not exist
+ERROR:  database "reactTranslator_development" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_development" ENCODING = 'unicode'
+ERROR:  database "reactTranslator_test" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_test" ENCODING = 'unicode'
+ERROR:  database "reactTranslator_development" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_development" ENCODING = 'unicode'
+ERROR:  database "reactTranslator_test" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_test" ENCODING = 'unicode'
+FATAL:  database "peterhahn" does not exist
+ERROR:  database "reactTranslator_development" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_development" ENCODING = 'unicode'
+ERROR:  database "reactTranslator_test" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_test" ENCODING = 'unicode'
+FATAL:  database "peterhahn" does not exist
+FATAL:  database "reactTranslator" does not exist
+FATAL:  database "reactTranslator" does not exist
+ERROR:  database "reactTranslator_development" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_development" ENCODING = 'unicode'
+ERROR:  database "reactTranslator_test" already exists
+STATEMENT:  CREATE DATABASE "reactTranslator_test" ENCODING = 'unicode'
+FATAL:  database "reactTranslate" does not exist
+FATAL:  database "reactTranslate_production" does not exist
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout
